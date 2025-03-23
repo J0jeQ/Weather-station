@@ -1,0 +1,28 @@
+
+body{
+margin: 0;
+}
+header{
+    border-bottom: 2px solid black;
+    display: flex;
+    justify-content:start;
+    padding-left: 20px;
+    background-color: rgb(146, 221, 61);
+}
+#miasto{
+    display: flex;
+    justify-content: center;
+}
+section{
+    display: flex;
+    justify-content:space-around;
+}
+select{
+    display: flex;
+    font-size: 30px;
+    margin: 25px auto;
+}
+h2{
+    font-size: 30px;
+    padding:20px 20px
+}
